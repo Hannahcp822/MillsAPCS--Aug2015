@@ -10,15 +10,25 @@ public class Mississippi
     public static void main(String[] args)
     {
         printM();
+        System.out.println();
         printI();
+        System.out.println();
         printS();
+        System.out.println();
         printS();
+        System.out.println();
         printI();
+        System.out.println();
         printS();
+        System.out.println();
         printS();
+        System.out.println();
         printI();
+        System.out.println();
         printP();
+        System.out.println();
         printP();
+        System.out.println();
         printI();
     }
     public static void printM()
