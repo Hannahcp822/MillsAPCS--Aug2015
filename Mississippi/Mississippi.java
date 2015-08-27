@@ -94,6 +94,7 @@ public class Mississippi
     {
         SixP();
         TwoP();
+        TwoP();
         SixP();
         OneP();
         OneP();
