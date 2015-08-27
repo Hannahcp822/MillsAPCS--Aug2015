@@ -31,6 +31,7 @@ public class Mississippi
         System.out.println();
         printI();
     }
+    
     public static void printM()
     {
         TwoM();
@@ -41,10 +42,12 @@ public class Mississippi
         TwoM();
         TwoM();
     }
+    
     public static void TwoM()
     {
         System.out.println("M     M");
     }
+    
     public static void printI() 
     {
         FiveI();
@@ -55,14 +58,17 @@ public class Mississippi
         OneI();
         FiveI();
     }
+    
     public static void FiveI()
     {
         System.out.println("IIIII");
     }
+    
     public static void OneI()
     {
         System.out.println("  I  ");
     }
+    
     public static void printS()
     {
         FiveS();
@@ -73,14 +79,17 @@ public class Mississippi
         TwoS();
         FiveS();
     }
+    
     public static void FiveS()
     {
         System.out.println(" SSSSS ");
     }
+    
     public static void TwoS()
     {
         System.out.println("S     S");
     }
+    
     public static void printP()
     {
         SixP();
@@ -90,14 +99,17 @@ public class Mississippi
         OneP();
         OneP();
     }
+    
     public static void SixP()
     {
         System.out.println("PPPPPP");
     }
+    
     public static void TwoP()
     {
         System.out.println("P     P");
     }
+    
     public static void OneP()
     {
         System.out.println("P      ");
