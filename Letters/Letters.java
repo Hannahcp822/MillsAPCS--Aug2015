@@ -43,47 +43,51 @@ public class Letters
     
     public static void GreetingBrother()
     {
-        System.out.println("Hey bro! How have you been? I have some questions for you.");
+        System.out.println("\tHey bro! Haven't seen you in awhile. How have you been?\nNot much is new with me, but I have a few questions to ask you.");
     }
     
     public static void GreetingSister()
-   
-        System.out.println("Hey sis! How's college? I was wondering if I could get your advice on some things.");
+    {
+        System.out.println("\tHey sis! How's college? Hope everything is going well for you\nthere. I was wondering if I could get your advice on some things.");
     }
     
     public static void GreetingMom()
     {
-        System.out.println("Hey mom! How's everything going? I need to ask you some things.");
+        System.out.println("\tHey mom! How's everything going? I'm doing fine, but I\nwanted to ask you about some things.");
     }
     
     public static void Classes()
     {
-        System.out.println("So it's time for me to choose classes for the school year... I'm really into writing narratives, but I'm not sure if I should take AP English beecause I heard it's a lot of work. What do you think?");
+        System.out.println("\tSo school started and I need to finalize my schedule soon...\nAs you know I'm really into writing narratives, but I'm not sure if\nI should take AP English beecause I heard it's a lot of work. What\ndo you think? Will I be too overwhelmed?");
     }
     
     public static void Sports()
     {
-        System.out.println("I also have to prepare for volleyball tryouts, which start next Monday. I haven't played that much over the summer and am a little worried about making the team. Got any advice?");
+        System.out.println("\tI also have to prepare for volleyball tryouts, which start\nnextMonday. I haven't played that much over the summer and am a\nlittle worried about making the team. Got any advice?");
     }
     
     public static void Movies()
     {
-        System.out.println("So it's been really hot lately and I was thinking about going to see a movie one of these days. Have you seen any good ones recently?");
+        System.out.println("\tOh and hasn't the weather been really hot lately?! I was\nthinking about going to see a movie with some friends one of these\ndays to stay out of the heat. Seen any good ones recently?");
     }
     
     public static void Friends()
     {
-        System.out.println("I'm excited about seeing everyone back at school over the summer, but a few of my friends and I have been fighting recently. I don't think it was my fault but what should I do?");
+        System.out.println("\tIt's been exciting seeing everyone back at school, but a\nfew of my friends and I got into a fight over the summer and\nit's awkward bumping into them. I don't think it was my fault but\nwhat should I say to them?");
     }
     
     public static void Clothes()
     {
-        System.out.println("Thanks for letting me borrow your shirt this summer! I promise to return it soon!");
+        System.out.println("\tOh and thanks so much for letting me borrow your shirt for\nthe party! Don't worry, nothing happened to it! I promise to return\nit the next time I see you!");
     }
     
     public static void Ending()
     {
-        System.out.println("Write me back and see you soon!!");
+        System.out.println("\tWrite me back when you can!!");
+        System.out.println("\t\t\t\t\t\tSee you soon!!");
+        System.out.println("\t\t\t\t\t\tDaisy");
+        System.out.println();
+        System.out.println();
     }
 }
 
