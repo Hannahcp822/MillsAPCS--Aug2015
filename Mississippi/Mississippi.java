@@ -24,88 +24,88 @@ public class Mississippi
     
     public static void printM()
     {
-        TwoM();
+        twoM();
         System.out.println("MM   MM");
         System.out.println("M M M M");
         System.out.println("M  M  M");
-        TwoM();
-        TwoM();
-        TwoM();
+        twoM();
+        twoM();
+        twoM();
         System.out.println();
     }
     
-    public static void TwoM()
+    public static void twoM()
     {
         System.out.println("M     M");
     }
     
     public static void printI() 
     {
-        FiveI();
-        OneI();
-        OneI();
-        OneI();
-        OneI();
-        OneI();
-        FiveI();
+        fiveI();
+        oneI();
+        oneI();
+        oneI();
+        oneI();
+        oneI();
+        fiveI();
         System.out.println();
     }
     
-    public static void FiveI()
+    public static void fiveI()
     {
         System.out.println("IIIII");
     }
     
-    public static void OneI()
+    public static void oneI()
     {
         System.out.println("  I  ");
     }
     
     public static void printS()
     {
-        FiveS();
-        TwoS();
+        fiveS();
+        twoS();
         System.out.println("S      ");
-        FiveS();
+        fiveS();
         System.out.println("      S");
-        TwoS();
-        FiveS();
+        twoS();
+        fiveS();
         System.out.println();
     }
     
-    public static void FiveS()
+    public static void fiveS()
     {
         System.out.println(" SSSSS ");
     }
     
-    public static void TwoS()
+    public static void twoS()
     {
         System.out.println("S     S");
     }
     
     public static void printP()
     {
-        SixP();
-        TwoP();
-        TwoP();
-        SixP();
-        OneP();
-        OneP();
-        OneP();
+        sixP();
+        twoP();
+        twoP();
+        sixP();
+        oneP();
+        oneP();
+        oneP();
         System.out.println();
     }
     
-    public static void SixP()
+    public static void sixP()
     {
         System.out.println("PPPPPP");
     }
     
-    public static void TwoP()
+    public static void twoP()
     {
         System.out.println("P     P");
     }
     
-    public static void OneP()
+    public static void oneP()
     {
         System.out.println("P      ");
     }
