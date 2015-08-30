@@ -3,32 +3,22 @@
  * P 1.1 - Mississippi
  * 
  * @author Hannah Pang
- * @version August 25, 2015
+ * @version August 25, 2015 (Revised: August 29, 2015)
  */
 public class Mississippi
 {
     public static void main(String[] args)
     {
         printM();
-        System.out.println();
         printI();
-        System.out.println();
         printS();
-        System.out.println();
         printS();
-        System.out.println();
         printI();
-        System.out.println();
         printS();
-        System.out.println();
         printS();
-        System.out.println();
         printI();
-        System.out.println();
         printP();
-        System.out.println();
         printP();
-        System.out.println();
         printI();
     }
     
@@ -41,6 +31,7 @@ public class Mississippi
         TwoM();
         TwoM();
         TwoM();
+        System.out.println();
     }
     
     public static void TwoM()
@@ -57,6 +48,7 @@ public class Mississippi
         OneI();
         OneI();
         FiveI();
+        System.out.println();
     }
     
     public static void FiveI()
@@ -78,6 +70,7 @@ public class Mississippi
         System.out.println("      S");
         TwoS();
         FiveS();
+        System.out.println();
     }
     
     public static void FiveS()
@@ -99,6 +92,7 @@ public class Mississippi
         OneP();
         OneP();
         OneP();
+        System.out.println();
     }
     
     public static void SixP()
