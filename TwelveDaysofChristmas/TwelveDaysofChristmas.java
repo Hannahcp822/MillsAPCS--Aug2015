@@ -1,185 +1,185 @@
 
 /**
- * P1.4 - TwelveDaysofChristmas
+ * P1.4 - TwelveDaysOfChristmas
  * 
  * @author Hannah Pang
  * @version August 27, 2015
  */
-public class TwelveDaysofChristmas
+public class TwelveDaysOfChristmas
 {
     public static void main(String[] args)
     {
         System.out.println("On the first day of Christmas,");
-        Secondline();
-        First();
+        secondLine();
+        first();
         System.out.println("On the second day of Christmas,");
-        Secondline();
-        Second();
+        secondLine();
+        second();
         System.out.println("On the third day of Christmas,");
-        Secondline();
-        Third();
+        secondLine();
+        third();
         System.out.println("On the fourth day of Christmas,");
-        Secondline();
-        Fourth();
+        secondLine();
+        fourth();
         System.out.println("On the fifth day of Christmas,");
-        Secondline();
-        Fifth();
+        secondLine();
+        fifth();
         System.out.println("On the sixth day of Christmas,");
-        Secondline();
-        Sixth();
+        secondLine();
+        sixth();
         System.out.println("On the seventh day of Christmas,");
-        Secondline();
-        Seventh();
+        secondLine();
+        seventh();
         System.out.println("On the eighth day of Christmas,");
-        Secondline();
-        Eighth();
+        secondLine();
+        eighth();
         System.out.println("On the ninth day of Christmas,");
-        Secondline();
-        Ninth();
+        secondLine();
+        ninth();
         System.out.println("On the tenth day of Christmas,");
-        Secondline();
-        Tenth();
+        secondLine();
+        tenth();
         System.out.println("On the eleventh day of Christmas,");
-        Secondline();
-        Eleventh();
+        secondLine();
+        eleventh();
         System.out.println("On the twelfth day of Christmas,");
-        Secondline();
-        Twelfth();
+        secondLine();
+        twelfth();
     }
     
-    public static void Secondline()
+    public static void secondLine()
     {
         System.out.println("my true love sent to me");
     }
     
-    public static void First()
+    public static void first()
     {
-        Partridge();
+        partridge();
         System.out.println();
     }
     
-    public static void Second()
+    public static void second()
     {
-        Turtledoves();
-        First();
+        turtleDoves();
+        first();
     }
     
-    public static void Third()
+    public static void third()
     {
-        Frenchhens();
-        Second();
+        frenchHens();
+        second();
     }
     
-    public static void Fourth()
+    public static void fourth()
     {
-        Callingbirds();
-        Third();
+        callingBirds();
+        third();
     }
     
-    public static void Fifth()
+    public static void fifth()
     {
-        Goldenrings();
-        Fourth();
+        goldenRings();
+        fourth();
     }
         
-    public static void Sixth()
+    public static void sixth()
     {
-        Geese();
-        Fifth();
+        geese();
+        fifth();
     }
     
-    public static void Seventh()
+    public static void seventh()
     {
-        Swans();
-        Sixth();
+        swans();
+        sixth();
     }
     
-    public static void Eighth()
+    public static void eighth()
     {
-        Maids();
-        Seventh();
+        maids();
+        seventh();
     }
         
-    public static void Ninth()
+    public static void ninth()
     {
-        Ladies();
-        Eighth();
+        ladies();
+        eighth();
     }
     
-    public static void Tenth()
+    public static void tenth()
     {
-        Lords();
-        Ninth();
+        lords();
+        ninth();
     }
     
-    public static void Eleventh()
+    public static void eleventh()
     {
-        Pipers();
-        Tenth();
+        pipers();
+        tenth();
     }
     
-    public static void Twelfth()
+    public static void twelfth()
     {
-        Drummers();
-        Eleventh();
+        drummers();
+        eleventh();
     }
    
-    public static void Partridge()
+    public static void partridge()
     {
         System.out.println("a partridge in a pear tree.");
     }
     
-    public static void Turtledoves()
+    public static void turtleDoves()
     {
         System.out.println("two turtle doves, and");
     }
     
-    public static void Frenchhens()
+    public static void frenchHens()
     {
         System.out.println("three French hens,");
     }
     
-    public static void Callingbirds()
+    public static void callingBirds()
     {
         System.out.println("four calling birds,");
     }
     
-    public static void Goldenrings()
+    public static void goldenRings()
     {
         System.out.println("five golden rings,");
     }
     
-    public static void Geese()
+    public static void geese()
     {
         System.out.println("six geese a-laying,");
     }
     
-    public static void Swans()
+    public static void swans()
     {
         System.out.println("seven swans a-swimming,");
     }
     
-    public static void Maids()
+    public static void maids()
     { 
         System.out.println("eight maids a-milking,");
     }
     
-    public static void Ladies()
+    public static void ladies()
     {
         System.out.println("nine ladies dancing,");
     }
     
-    public static void Lords()
+    public static void lords()
     {
         System.out.println("ten lords a-leaping,");
     }
     
-    public static void Pipers()
+    public static void pipers()
     {
         System.out.println("eleven pipers piping,");
     }
     
-    public static void Drummers()
+    public static void drummers()
     {
         System.out.println("Twelve drummers drumming,");
     }
