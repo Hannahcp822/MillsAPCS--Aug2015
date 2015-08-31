@@ -1,6 +1,7 @@
 
 /**
  * P 1.1 - Mississippi
+ * This program prints "Mississippi" in block letters.
  * 
  * @author Hannah Pang
  * @version August 25, 2015 (Revised: August 29, 2015)

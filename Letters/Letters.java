@@ -1,6 +1,7 @@
 
 /**
  * Letters - P1.2
+ * This program prints three letters to three different people.
  * 
  * @author Bonny Lee and Hannah Pang 
  * @version August 27, 2015 (Revised: August 29, 2015)
