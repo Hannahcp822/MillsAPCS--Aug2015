@@ -1,9 +1,10 @@
 
 /**
  * P1.3 - "There Was an Old Lady Who Swallowed a Fly"
+ * This program prints out the lyrics to 5 verses of the song.
  * 
  * @author Hannah Pang
- * @version August 25, 2015
+ * @version August 31, 2015
  */
 public class FlySong
 {

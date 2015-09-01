@@ -1,9 +1,10 @@
 
 /**
  * P1.4 - TwelveDaysOfChristmas
+ * This program prints the lyrics to the "Twelve Days of Christmas" song.
  * 
  * @author Hannah Pang
- * @version August 27, 2015
+ * @version August 31, 2015
  */
 public class TwelveDaysOfChristmas
 {
